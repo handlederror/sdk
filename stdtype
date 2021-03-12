@@ -1,0 +1,5 @@
+namespace std
+{
+	typedef int integer;
+	typedef char character;
+}
